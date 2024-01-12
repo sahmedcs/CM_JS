@@ -1,4 +1,4 @@
-/*
+/* Ver 2
 http://www.JSON.org/json2.js
 2010-03-20
 
